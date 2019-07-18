@@ -1,0 +1,15 @@
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\HelloWorld2.1.csproj.CoreCompileInputs.cache
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\HelloWorld2.1.AssemblyInfoInputs.cache
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\HelloWorld2.1.AssemblyInfo.cs
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\HelloWorld2.1.csprojAssemblyReference.cache
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\HelloWorld2.1.RazorAssemblyInfo.cache
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\HelloWorld2.1.RazorAssemblyInfo.cs
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\bin\Debug\netcoreapp2.1\HelloWorld2.1.deps.json
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\bin\Debug\netcoreapp2.1\HelloWorld2.1.runtimeconfig.json
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\bin\Debug\netcoreapp2.1\HelloWorld2.1.runtimeconfig.dev.json
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\bin\Debug\netcoreapp2.1\HelloWorld2.1.dll
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\bin\Debug\netcoreapp2.1\HelloWorld2.1.pdb
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\HelloWorld2.1.RazorTargetAssemblyInfo.cache
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\HelloWorld2.1.dll
+C:\Users\pmakwana\source\repos\HelloWorld2.1\HelloWorld2.1\obj\Debug\netcoreapp2.1\HelloWorld2.1.pdb
